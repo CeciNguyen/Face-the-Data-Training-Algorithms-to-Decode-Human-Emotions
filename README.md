@@ -1,1 +1,1 @@
-# Face-the-Data-Training-Algorithms-to-Decode-Human-Emotions
+# Face the Data Training: Algorithms to Decode Human Emotions
