@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  emotion-classifier:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./emotion_model.h5:/app/emotion_model.h5
+    restart: unless-stopped
