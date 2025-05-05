@@ -60,7 +60,7 @@ Despite its complexity, this model produced the highest test accuracy in our exp
 |----------------|---------------|
 | Baseline CNN   | ~58%          |
 | ResNet-Style   | ~60%          |
-| VGG-Style      | ~62% ✅        |
+| VGG-Style      | ~62%          |
 
 - **VGG-style model** delivered the best performance due to its depth and abstraction power.  
 - **ResNet-style** improved stability but was not as expressive in our case.  
